@@ -1,0 +1,15 @@
+# heavy dirs
+/pickle_texts/*
+/FDD-CSVs/*
+/queries-CSVs/*
+/set3_test/*
+/set3_test_3_topics/*
+/set12_train/*
+/set12_train_3_topics/*
+/MOGP/Co3/*
+
+set12_train_25topics.tar.gz
+set3_test_25topics.tar.gz
+set3_test_all_topics.tar.gz
+set12_train_3topics.tar.gz
+set3_test_3topics.tar.gz
