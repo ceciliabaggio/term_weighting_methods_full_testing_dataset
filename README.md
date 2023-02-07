@@ -1,4 +1,4 @@
-# term_weighting_methods_full_TESTING_dataset
+# Term Weighting Methods
 
 This code is made available to reproduce the experiments that were sent for publication in PeerJ journal.
 
