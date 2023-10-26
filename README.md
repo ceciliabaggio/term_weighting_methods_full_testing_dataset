@@ -9,4 +9,6 @@ For the experiment you need approximately 130gb of RAM. First add the zipped dat
 
 You can download the datasets from: https://csunseduar-my.sharepoint.com/:f:/g/personal/cb_cs_uns_edu_ar/Eu1xqiOSt8NCjmuvaMhIsyoBpvSv1VKeYhkwxPbYIbrYzA?e=bSFbxT
 
+The datasets are also available on Mendeley: https://data.mendeley.com/datasets/9mpgz8z257/1 
+
 If you find any issue, please write me an email (cb@cs.uns.edu.ar) and I will be glad to see what is going on :)
